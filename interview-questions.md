@@ -22,9 +22,11 @@ Microsoft SDE intern, summer 2016:
 
 1) Given this tree
 
-      1
-    2  3
-  4 5 6 7    How would you traverse the tree and print the numbers in order?
+        1
+      2  3
+    4 5 6 7
+   
+   How would you traverse the tree and print the numbers in order?
 
 2) You're Santa Claus and your elves gives you instructions to go N,S,E and West. How to remember that you didn't go back to a same house? Also do this for the whole world but in O(1) time and use the space of an array or a bit more.
 
