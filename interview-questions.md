@@ -84,6 +84,8 @@ How to reference hello class in a paragraph in a div in JQuery? Whats the altern
 
 What is event bubbling?
 
+What is difference between visibility: 0 and display: none in CSS?
+
 What are deferred in JQuery or Promises in Javascript?
 
 What does the new Keyword do in Javascript?
