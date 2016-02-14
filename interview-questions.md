@@ -1,4 +1,20 @@
-* TextNow Web Developer Intern, summer 2016
+* Web Developer, ThinkCapsule, 2015-2016:
+
+1) Walk me through resume and interests.
+
+2) Time Complexity Questions: 
+
+What is time and space complexity of Bubble sort?
+
+What about Quick Sort?
+
+What about Merge Sort?
+
+3) What is the Singleton Pattern?
+
+4) How to push and pull to a Github repo?
+
+* TextNow Web Developer Intern, summer 2016:
 
 First Round Codility Challenge - Medium difficulty.
 
