@@ -1,4 +1,5 @@
-* Web Developer, ThinkCapsule, 2015-2016:
+Web Developer, ThinkCapsule, 2015-2016:
+----
 
 1) Walk me through resume and interests.
 
@@ -14,7 +15,8 @@ What about Merge Sort?
 
 4) How to push and pull to a Github repo?
 
-* TextNow Web Developer Intern, summer 2016:
+TextNow Web Developer Intern, summer 2016:
+---
 
 First Round Codility Challenge - Medium difficulty.
 
