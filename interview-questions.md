@@ -1,3 +1,34 @@
+IBM Watson Analyics Developer Intern, summer 2015:
+---
+
+1) Time Complexity Questions:
+
+What is time complexity of Bubble Sort?
+
+What about Mergesort?
+
+What are the three fastest sorts used nowadays?
+
+Why would you use Bubblesort over Quicksort?
+
+2) LinkedLists and Arrays:
+
+Why would you use Array over LinkedList?
+
+Why would you use LinkedList over Array?
+
+
+IBM Extreme Blue Technical Intern, summer 2016:
+---
+
+1) Case Interview: How would you design a solution to help patients who fear they have cancer to help make sure if they do and not waste precious doctors' time?
+
+2) Given an unsorted array that goes from 1 to 100 but is missing one number, how to figure out missing number?
+
+3) What is your level of skill with Javascript from 1 to 10?
+
+Followup: How do you tell that you've reached that level of skill and what is something someone more skilled than you would know?
+
 Web Developer, ThinkCapsule, 2015-2016:
 ----
 
