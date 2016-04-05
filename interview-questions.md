@@ -89,3 +89,11 @@ What is difference between visibility: 0 and display: none in CSS?
 What are deferred in JQuery or Promises in Javascript?
 
 What does the new Keyword do in Javascript?
+---
+
+Amazon SDE Intern, Summer 2016:
+
+What are data structures you normally use? Why? Whats decision-making process?
+
+Implement a LRU Cache.
+
