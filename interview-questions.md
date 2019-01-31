@@ -98,3 +98,13 @@ What are data structures you normally use? Why? Whats decision-making process?
 
 Implement a LRU Cache.
 
+Microsoft SDE intern, summer 2017 or 2018? 
+---
+
+1) 
+
+2)
+
+3)
+
+4)
